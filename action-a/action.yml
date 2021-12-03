@@ -15,3 +15,21 @@ runs:
 branding:
   icon: "mic"
   color: "purple"
+
+# name: "Action 2"
+# description: "Say bye to someone"
+# author: "octocat@github.com"
+
+# inputs:
+#   FRIEND:
+#     description: "Saying bye"
+#     required: true
+#     default: "Jade"
+
+# runs:
+#   using: "docker"
+#   image: "Dockerfile"
+
+# branding:
+#   icon: "mic"
+#   color: "purple"
