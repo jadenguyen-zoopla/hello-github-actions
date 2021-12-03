@@ -7,6 +7,10 @@ inputs:
     description: "Who to greet"
     required: true
     default: "World"
+  FRIEND:
+    description: "Who to say bye to"
+    required: true
+    default: "Jade"
 
 runs:
   using: "docker"
